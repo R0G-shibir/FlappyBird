@@ -34,23 +34,6 @@ A simple **Flappy Bird clone** built in **Java** using **Swing** for GUI. Naviga
 
 ---
 
-## 📁 Project Structure
-
-FlappyBird/
-│
-├── src/
-│ └── FlappyBird.java # Main game logic
-│
-├── images/
-│ ├── flappybird.png # Bird sprite
-│ ├── flappybirdbg.png # Background
-│ ├── toppipe.png # Top pipe image
-│ └── bottompipe.png # Bottom pipe image
-│
-├── README.md
-└── ...
-
-
 ---
 
 ## 🔧 How to Run
