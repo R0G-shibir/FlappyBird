@@ -1,0 +1,58 @@
+# Java compiled output
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar
+*.gz
+/bin/ # If you have a separate output directory named 'bin'
+
+# Maven/Gradle project files (if you were using them, though Swing projects often don't)
+/target/
+/build/
+
+# Eclipse
+.classpath
+.project
+.settings/
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+/out/ # IntelliJ's default output directory
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+.nbattrs
+hs_err_pid*.log
+
+# VS Code (if you use it)
+.vscode/
+
+# Operating System files
+.DS_Store # macOS
+Thumbs.db # Windows
+Desktop.ini # Windows
+
+# Log files
+*.log
+
+# Backup files
+*~
+#*#
+.#*
+*.bak
+*.swp # Vim swap files
+*.swo
+
+# Sensitive files (e.g., if you ever add configuration files with credentials)
+*.properties.example # if you have an example and a real one
+# config.properties # if it contains sensitive data and is not committed
